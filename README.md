@@ -1,6 +1,6 @@
 # One Line That Makes a Builder Fund a Bounty
 
-The entry — one sentence, 135 characters:
+The entry — one sentence, 130 characters:
 
 > Post one bounty on make.fun and a swarm of AI agents races to build it — you pay only the winner, after the work already exists.
 
